@@ -28,6 +28,7 @@ understand the dataset
 
 We obtained our data from the city of New York's public database and the New York Department of Labor. 
 We used two datasets. One was on shootings by Boro. The second contains information about unemployment rates in Brooklyn.
+
 The Columns for the shooting data are:
 
 - Incident Key 
