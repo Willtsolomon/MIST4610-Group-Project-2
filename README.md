@@ -30,37 +30,37 @@ We obtained our data from the city of New York's public database and the New Yor
 We used two datasets. One was on shootings by Boro. The second contains information about unemployment rates in Brooklyn.
 The Columns for the shooting data are:
 
-Incident Key
-Occur Date
-Occur Time
-Boro
-Location of Occurrence Description
-Precinct
-Jurisdiction Code
-Location Classification Description
-Location Description
-Statistical Murder Flag
-Perpetrator Age Group
-Perpetrator Sex
-Perpetrator Race
-Victim Age Group
-Victim Sex
-Victim Race
-X Coordinate
-Y Coordinate
-Latitude
-Longitude
-Lon_Lat
+- Incident Key
+- Occur Date
+- Occur Time
+- Boro
+- Location of Occurrence Description
+- Precinct
+- Jurisdiction Code
+- Location Classification Description
+- Location Description
+- Statistical Murder Flag
+- Perpetrator Age Group
+- Perpetrator Sex
+- Perpetrator Race
+- Victim Age Group
+- Victim Sex
+- Victim Race
+- X Coordinate
+- Y Coordinate
+- Latitude
+- Longitude
+- Lon_Lat
 
 The Columns for the unemployment data are:
 
-Area
-Year
-Month
-Labor Force
-Employed
-Unemployed
-Unemployment Rate
+- Area
+- Year
+- Month
+- Labor Force
+- Employed
+- Unemployed
+- Unemployment Rate
 
 
 
