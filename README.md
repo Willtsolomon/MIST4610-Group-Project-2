@@ -71,7 +71,7 @@ The Columns for the unemployment data are:
 
 
 ## Questions
- 1. Which Boro in New York City has had the most shootings from 2006 to 2021?
+ 1. Which Boro in New York City has had the most shootings from 2019 to 2022?
  2. Brooklyn, is there a correlation between the unemployment rate and shootings?
 
 ## Manipulations
