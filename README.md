@@ -23,7 +23,7 @@
 ## Describing our dataset
 1st Dataset: NYPD Shooting Incident Data
 
-Describing your dataset and what data it contains: The dataset provides a comprehensive view of shooting incidents in NYC, including details about the incident, location, perpetrators, victims, and geographical coordinates. It seems to be derived from various sources, possibly law enforcement or governmental agencies responsible for tracking crime statistics in NYC. There are 21 columns and hundreds of rows.
+Describing your dataset and what data it contains: The dataset provides a comprehensive view of shooting incidents in NYC, including details about the incident, location, perpetrators, victims, and geographical coordinates. It is derived from various sources, possibly law enforcement or governmental agencies responsible for tracking crime statistics in NYC. There are 21 columns and hundreds of rows.
 
 The Columns are:
 
@@ -49,20 +49,18 @@ The Columns are:
 - Longitude: (Longitude) Longitude of the location where the shooting occurred.
 - Logitute and Latitude: (Lon_Lat) Combined longitude and latitude coordinates.
 
-The Columns for the unemployment data are:
+2nd Dataset: Brooklyn Unemployment Data
 
-- Area
-- Date (MM/YYYY) 
-- Labor Force
-- Employed
-- Unemployed
-- Unemployment Rate
+Describing your dataset and what data it contains: The dataset provides a comprehensive overview of the labor market dynamics in Kings County over the specified period, offering insights into employment trends, fluctuations in the labor force, and changes in unemployment rates. It serves as a valuable resource for analyzing the region's economic health and workforce conditions over time. There are six columns and seventy-one rows.
 
+The Columns are:
 
-
-
-
-
+- Area: Specifies the geographical area covered by the data (Kings County).
+- Date: Indicates the month and year of the recorded data (in the format MM/YYYY). 
+- Labor Force: Total number of individuals available for work during the specified month.
+- Employed: Number of individuals who are currently employed.
+- Unemployed: Number of individuals who are actively seeking employment but currently unemployed.
+- Unemployment Rate: Percentage of the labor force that is unemployed, calculated as the ratio of unemployed individuals to the total labor force, multiplied by 100.
 
 
 ## Questions
