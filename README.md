@@ -21,11 +21,6 @@
 
 
 ## Describing our dataset
-Describing your dataset and what data it contains:
-Where was it obtained, what are the dimensions of it (rows and columns), what are the various
-columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
-understand the dataset
-
 We obtained our data from the city of New York's public database and the New York Department of Labor. 
 We used two datasets. One was on shootings by Boro. The second contains information about unemployment rates in Brooklyn.
 
