@@ -47,7 +47,7 @@ The Columns are:
 - Y Coordinate: (Y_COORD_CD) Y-coordinate of the location where the shooting occurred.
 - Latitude: (Latitude) Latitude of the location where the shooting occurred.
 - Longitude: (Longitude) Longitude of the location where the shooting occurred.
-- Logitute and Latitude: (Lon_Lat) Combined longitude and latitude coordinates.
+- Longitude and Latitude: (Lon_Lat) Combined longitude and latitude coordinates.
 
 2nd Dataset: Brooklyn Unemployment Data
 
