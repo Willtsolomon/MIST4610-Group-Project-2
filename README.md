@@ -66,7 +66,7 @@ The Columns are:
 ## Questions
  1. Which Borough in New York City has had the most shootings from 2019 to 2022?
 
-    Relevance: This question can be applied in many different scenarios. For one, policymakers can target specific areas in New York City that have the highest number of shootings to make a larger impact with the same amount of resources and effort. In addition, the data could be used in socio-economic research where researchers want to use shootings as a factor of educational, economic, and social status to determine which areas are lacking in one of the three categories and therefore could receive more aid from the government or local agencies.
+    This question can be applied in many different scenarios. For one, policymakers can target specific areas in New York City that have the highest number of shootings to make a larger impact with the same amount of resources and effort. In addition, the data could be used in socio-economic research where researchers want to use shootings as a factor of educational, economic, and social status to determine which areas are lacking in one of the three categories and therefore could receive more aid from the government or local agencies.
     
  3. In Brooklyn, is there a correlation between the unemployment rate and number of shootings from 2019 to 2022?
 
