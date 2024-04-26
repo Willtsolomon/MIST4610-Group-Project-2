@@ -82,6 +82,11 @@ The Columns are:
 
  ## Analysis and Results 
 
- Analyze and visualize the results of your analysis and describe the implications of your analysis.
-Please provide any citations if required as well as supporting visualizations and analysis
-generated from Tableau
+Our first question was, "Which Borough in New York City has had the most shootings from 2019 to 2022?" 
+We found that Brooklyn was the Borough with the most shootings from 2019 - 2022. For our next question, we decided to further research Brooklyn. Our next question was, "In Brooklyn, is there a correlation between the unemployment rate and number of shootings from 2019 to 2022?" We concluded that there is a relationship between the unemployment rate and number of shootings. A P-Value of 0.0024591 was found. Using an alpha value of .05, this P-Value was considered significant and the null hypothesis was rejected.
+ 
+
+## Tableau Packaged Workbook
+
+
+
