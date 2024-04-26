@@ -74,11 +74,11 @@ The Columns are:
 
 1. There was an issue where there was a person who was 1022 years old. This was a mistake in the data so it was excluded. 
 
-2. There were 9 entries of null data where information was unavailable. These entries were filtered out in Tableau so it would of affect our results.
+2. There were 9 entries of null data. These entries were filtered out in Tableau so it would not affect our results.
    
-3. In the second question, we filtered the data for Only the borough of Brooklyn.
+3. In the second question, we filtered the data for only the Borough of Brooklyn.
 
-4. The date was filtered from 2019-2022.
+4. The date was filtered from 2019-2022. This was done to reflect what our question was asking.
 
  ## Analysis and Results 
 
