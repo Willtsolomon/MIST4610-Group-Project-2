@@ -21,15 +21,11 @@
 
 
 ## Describing our dataset
-Describing your dataset and what data it contains:
-Where was it obtained, what are the dimensions of it (rows and columns), what are the various
-columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
-understand the dataset
+1st Dataset: NYPD Shooting Incident Data
 
-We obtained our data from the city of New York's public database and the New York Department of Labor. 
-We used two datasets. One was on shootings by Boro. The second contains information about unemployment rates in Brooklyn.
+Describing your dataset and what data it contains: The dataset provides a comprehensive view of shooting incidents in NYC, including details about the incident, location, perpetrators, victims, and geographical coordinates. It seems to be derived from various sources, possibly law enforcement or governmental agencies responsible for tracking crime statistics in NYC. There are 21 columns and hundreds of rows.
 
-The Columns for the shooting data are:
+The Columns are:
 
 - Incident Key: (INCIDENT_KEY) A unique identifier for each shooting incident.
 - Occur Date: (OCCUR_DATE) The date when the shooting occurred (in the format MM/DD/YYYY).
