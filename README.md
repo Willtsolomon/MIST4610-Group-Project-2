@@ -29,8 +29,6 @@ understand the dataset
 We obtained our data from the city of New York's public database and the New York Department of Labor. 
 We used two datasets. One was on shootings by Boro. The second contains information about unemployment rates in Brooklyn.
 
-#### dimensions of the date set (rows/columns). maybe just list how many rows are in each dateset. 
-
 The Columns for the shooting data are:
 
 - Incident Key: (INCIDENT_KEY) A unique identifier for each shooting incident.
