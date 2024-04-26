@@ -6,7 +6,7 @@
 61608 Group 8
 
 ## Team Members:
-
+ 
 [Will Solomon](https://github.com/Willtsolomon)
 
 [Libby Lausier](https://github.com/libbylausier)
@@ -82,11 +82,10 @@ The Columns are:
 
  ## Analysis and Results 
 
-Our first question was, "Which Borough in New York City has had the most shootings from 2019 to 2022?" 
-We found that Brooklyn was the Borough with the most shootings from 2019 - 2022. For our next question, we decided to further research Brooklyn. Our next question was, "In Brooklyn, is there a correlation between the unemployment rate and number of shootings from 2019 to 2022?" We concluded that there is a relationship between the unemployment rate and number of shootings. A P-Value of 0.0024591 was found. Using an alpha value of .05, this P-Value was considered significant and the null hypothesis was rejected.
+Our first question was, "Which Borough in New York City has had the most shootings from 2019 to 2022?" Our results show a geographical map of the Boroughs, color-coded from lightest to darkest based on the amount of shootings. We found that Brooklyn was the Borough with the most shootings from 2019 - 2022, with 2,390 shootings. Bronx was a close second, with 2,007. Manhattan and Queens followed with 1,068 and 1,021, respectively. Staten Island had the least shootings in this time period by far, with only 156.
+
+For our next question, we decided to further research Brooklyn. Our next question was, "In Brooklyn, is there a correlation between the unemployment rate and number of shootings from 2019 to 2022?" We concluded that there is a relationship between the unemployment rate and number of shootings. A P-Value of 0.0024591 was found. Using an alpha value of .05, this P-Value was considered significant and the null hypothesis was rejected.
  
 
 ## Tableau Packaged Workbook
-
-
 
